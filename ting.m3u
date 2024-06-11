@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="filme" tvg-logo="http://xcui.vitvabc.xyz:8880/images/55ce67774e3a89c37a27335084c10a0b.png" group-title="CANAIS: GLOBO",GLOBO TV RIO SUL HD
+http://23.251.101.85:21712/vod/CE9F76E92ACB488FA79EE1226AE364F6_media.mp4?content_auth=Rm_vZXTDWxjKva4G_NVwzcCMilIVH7PsSxxIiYJtOITv08BaTwmPQkQlpb3KdFhjmcq6H8vT8uhIaH_oRQ1hZI1_fE7ucMYTgo11FvrK2VvyS7n7FwqCSvKCO19Im_VEOOrfyABf1QFMi9DGZwD7CuHHs07lAtbo9xxRL8TGDoygkAEHh1zdEqnuUsAdTr1V_GenZq3AMiFu5l4AOVVq5epAZpGXt5fD9WxdFIbtaijIz0_jjrS1REKwlya0WKXCSA5VeuEmPO6oUtkxvKH-Pn_-IphuQ9i4LqSFXIsRHoWLFo0SE4GkWRmMnsDF2y-9KwToVTP-I69Up8srIwu74KFwAg0Uy6hirkLhr4ZaCzhxdiz_XeO7pS5FkrFCJzZW&content_license=1wKY2xwXG3PbMeOT8q8Pt2r51QV0acA3cKSp6Uom7PGPXPDx-xA64501oqOZhbSLTpmfW-TOuI6bODLH60uLCTHag56nhcNpwFEmX_iW0eZbQv57vztDPjyOC-eS6agRf78fXC0jtRrKoHpf042QRxvNhC8eNFzAXAL_B4KisL8ufThT9OqfBkzYao7ly-JS&host=23.251.101.85:21712
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/55ce67774e3a89c37a27335084c10a0b.png" group-title="CANAIS: GLOBO",GLOBO TV RIO SUL HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/32155
 #EXTINF:-1 tvg-id="" tvg-name="Globo SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1d17f580af471f95d9962c54a4c2a53e.png" group-title="CANAIS: HD",Globo SP HD+
