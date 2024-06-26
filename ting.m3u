@@ -31,3 +31,17 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31044
 https://24493.live.streamtheworld.com/COSTAZULFMAAC_SC?dist=radiosaovivo
 #EXTINF:-1 tvg-name="Radio Positiva FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/37486.v5.png" group-title="Radio Positiva FM",Positiva FM
 http://stm37.conectastm.com:6888/stream
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4K" tvg-logo="http://ucsxiptv.com:8080/images/29825ac32451ce587761b502ea568e83.png" group-title="4K UHD",SporTV 4K
+http://game.shiuk.re:80/5647485/2545454/48.m3u8
+#EXTINF:-1 tvg-id="SporTV HD" tvg-name="SporTV FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/b18caf8c54b3426bf127aaadd211c620.png" group-title="ESPORTES",SporTV FHD
+http://game.shiuk.re:80/5647485/2545454/599.m3u8
+#EXTINF:-1 tvg-id="SporTV HD" tvg-name="SporTV FHD²" tvg-logo="http://ucsxiptv.com:8080/images/logos/b18caf8c54b3426bf127aaadd211c620.png" group-title="ESPORTES",SporTV FHD²
+http://game.shiuk.re:80/5647485/2545454/600.m3u8
+#EXTINF:-1 tvg-id="SporTV HD" tvg-name="SporTV HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/b18caf8c54b3426bf127aaadd211c620.png" group-title="ESPORTES",SporTV HD
+http://game.shiuk.re:80/5647485/2545454/601.m3u8
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="SporTV HD²" tvg-logo="http://ucsxiptv.com:8080/images/logos/b18caf8c54b3426bf127aaadd211c620.png" group-title="ESPORTES",SporTV HD²
+http://game.shiuk.re:80/5647485/2545454/602.m3u8
+#EXTINF:-1 tvg-id="SporTV HD" tvg-name="SporTV SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/b18caf8c54b3426bf127aaadd211c620.png" group-title="ESPORTES",SporTV SD
+http://game.shiuk.re:80/5647485/2545454/603.m3u8
+#EXTINF:-1 tvg-id="SporTV HD" tvg-name="SporTV UHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/b18caf8c54b3426bf127aaadd211c620.png" group-title="ESPORTES",SporTV UHD
+http://game.shiuk.re:80/5647485/2545454/604.m3u8
