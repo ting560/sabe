@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Sportv" tvg-logo="http://xcui.vitvabc.xyz:8880/images/39ba71210c63301ed9b037b9d22e77d7.png" group-title="ESPORTES ONLINE",Sportv
-http://game.shiuk.re:80/5647485/2545454/601.m3u8
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="https://fivetv.xyz/logos/premiere.png" group-title="PREMIERE",Premiere Clubes FHD
-https://5ce.co:443/live/04Gabriel/1527qw/6938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="CANAIS: HD",ESPN HD+
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16718
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/55ce67774e3a89c37a27335084c10a0b.png" group-title="CANAIS: GLOBO",GLOBO TV RIO SUL HD
-http://game.shiuk.re:80/5647485/2545454/447.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1d17f580af471f95d9962c54a4c2a53e.png" group-title="CANAIS: HD",Globo SP HD+
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16730
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/55ce67774e3a89c37a27335084c10a0b.png" group-title="CANAIS: GLOBO",GLOBO NEWS HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31519
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="ESPORTES ONLINE",SBT
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16749
-#EXTINF:-1 tvg-id="Example" tvg-name="RECORD RJ HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7a25fa0eb158ef4684e67222597beb97.png" group-title="CANAIS: RECORD",RECORD RJ HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31566
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7a25fa0eb158ef4684e67222597beb97.png" group-title="CANAIS: RECORD",RECORD SP HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31568
-#EXTINF:-1 tvg-id="SEXHOTH" tvg-name="RECORD NEWS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3a120df59994334ed69992ba8e249e2a.png" group-title="CANAIS: NOTICIAS",RECORD NEWS HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31523
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band_news.png" group-title="Canais | NOTÍCIAS", BAND NEWS
 https://cdn-3.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="CANAIS: HD",Band Sports HD+
