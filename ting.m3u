@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Radio Radio Costazul FM" tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/costazul-fm.png" group-title="Rádio Costazul FM",Rádio Costazul FM
+https://24493.live.streamtheworld.com/COSTAZULFMAAC_SC?dist=radiosaovivo
+#EXTINF:-1 tvg-name="Radio Positiva FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/37486.v5.png" group-title="Radio Positiva FM",Positiva FM
+http://stm37.conectastm.com:6888/stream
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band_news.png" group-title="Canais | NOTÍCIAS", BAND NEWS
 https://cdn-3.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="CANAIS: HD",Band Sports HD+
@@ -7,10 +11,6 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16698
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16697
 #EXTINF:-1 tvg-id="SEXHOTH" tvg-name="REDE TV 4K" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1dea9cbac95969cb9591fa9131f330f2.png" group-title="CANAIS: 4K ",REDE TV 4K
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31044
-#EXTINF:-1 tvg-name="Radio Radio Costazul FM" tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/costazul-fm.png" group-title="Rádio Costazul FM",Rádio Costazul FM
-https://24493.live.streamtheworld.com/COSTAZULFMAAC_SC?dist=radiosaovivo
-#EXTINF:-1 tvg-name="Radio Positiva FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/37486.v5.png" group-title="Radio Positiva FM",Positiva FM
-http://stm37.conectastm.com:6888/stream
 #EXTINF:-1 tvg-id="" tvg-name="Bad Boys: Até o Fim (2024) CINE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ak6VZDHms5T4p0eFISk336kqjR6.jpg" group-title="Filmes | Cinema",Bad Boys: Até o Fim (2024) CINE
 http://xciptv.aplicativos.top:80/movie/85158976/U828a1908p/370474.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um tira da pesada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ak6VZDHms5T4p0eFISk336kqjR6.jpg" group-title="Filmes | Cinema",Um tira da pesada
