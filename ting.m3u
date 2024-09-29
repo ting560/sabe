@@ -11,3 +11,5 @@ https://reidoscanais.tv/embed/?id=recordsp
 https://reidoscanais.tv/embed/?id=band
 #EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="https://bit.ly/Logo-tv" group-title="Rede Globo",Globo News
 https://reidoscanais.tv/embed/?id=globonews
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan" tvg-logo="https://bit.ly/Logo-tv" group-title="Jovem Pan",JP
+https://reidoscanais.tv/embed/?id=jpnews
