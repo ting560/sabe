@@ -5,6 +5,7 @@ https://reidoscanais.tv/embed/?id=globorj-tvriosul
 https://reidoscanais.tv/embed/?id=globosp-globosaopaulo
 #EXTINF:-1 tvg-id="" tvg-name="SBT1" tvg-logo="https://bit.ly/Logo-tv" group-title="SBT",SBT
 https://reidoscanais.tv/embed/?id=sbt
-#EXTINF:-1 tvg-id="" tvg-name="SBT1" tvg-logo="https://bit.ly/Logo-tv" group-title="RECORD",Record
+#EXTINF:-1 tvg-id="" tvg-name="record" tvg-logo="https://bit.ly/Logo-tv" group-title="RECORD",Record
 https://reidoscanais.tv/embed/?id=recordsp
-#EXTINF:-1 tvg-id="" tvg-name="SBT1" tvg-logo="https://bit.ly/Logo-tv" group-title="BAND",BAND
+#EXTINF:-1 tvg-id="" tvg-name="band" tvg-logo="https://bit.ly/Logo-tv" group-title="BAND",BAND
+https://reidoscanais.tv/embed/?id=band
