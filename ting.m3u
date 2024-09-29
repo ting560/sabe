@@ -13,3 +13,7 @@ https://reidoscanais.tv/embed/?id=band
 https://reidoscanais.tv/embed/?id=globonews
 #EXTINF:-1 tvg-id="" tvg-name="Jovem Pan" tvg-logo="https://bit.ly/Logo-tv" group-title="Jovem Pan",JP
 https://reidoscanais.tv/embed/?id=jpnews
+#EXTINF:-1 tvg-id="" tvg-name="SBT1" tvg-logo="https://bit.ly/Logo-tv" group-title="ESPN",ESPN
+https://reidoscanais.tv/embed/?id=espn
+#EXTINF:-1 tvg-id="" tvg-name="SBT1" tvg-logo="https://bit.ly/Logo-tv" group-title="ESPN",ESPN 4
+https://reidoscanais.tv/embed/?id=espn4
