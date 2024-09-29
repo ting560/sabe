@@ -9,3 +9,5 @@ https://reidoscanais.tv/embed/?id=sbt
 https://reidoscanais.tv/embed/?id=recordsp
 #EXTINF:-1 tvg-id="" tvg-name="band" tvg-logo="https://bit.ly/Logo-tv" group-title="BAND",BAND
 https://reidoscanais.tv/embed/?id=band
+#EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="https://bit.ly/Logo-tv" group-title="Rede Globo",Globo News
+https://reidoscanais.tv/embed/?id=globonews
