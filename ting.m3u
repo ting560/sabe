@@ -3,5 +3,8 @@
 https://reidoscanais.tv/embed/?id=globorj-tvriosul
 #EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="https://bit.ly/Logo-tv" group-title="Rede Globo",Globo SP
 https://reidoscanais.tv/embed/?id=globosp-globosaopaulo
-#EXTINF:-1 tvg-id="" tvg-name="SBT1" tvg-logo="https://bit.ly/Logo-tv" group-title="SBT",SBT RJ
+#EXTINF:-1 tvg-id="" tvg-name="SBT1" tvg-logo="https://bit.ly/Logo-tv" group-title="SBT",SBT
 https://reidoscanais.tv/embed/?id=sbt
+#EXTINF:-1 tvg-id="" tvg-name="SBT1" tvg-logo="https://bit.ly/Logo-tv" group-title="RECORD",Record
+https://reidoscanais.tv/embed/?id=recordsp
+#EXTINF:-1 tvg-id="" tvg-name="SBT1" tvg-logo="https://bit.ly/Logo-tv" group-title="BAND",BAND
