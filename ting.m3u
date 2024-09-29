@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AUTHXPLUS-2" tvg-logo="https://bit.ly/Logo-tv" group-title="Info | AUTHXPLUS-2",AUTHXPLUS-2
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ" tvg-logo="https://bit.ly/Logo-tv" group-title="Info | GloboRJ",Rio Sul
 https://reidoscanais.tv/embed/?id=globorj-tvriosul
 #EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="FILMES & SERIES",A&E 4K
 https://reidoscanais.tv/embed/?id=globosp-globosaopaulo
