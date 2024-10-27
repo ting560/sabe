@@ -9,3 +9,21 @@ http://162.212.153.165:80/live/Formigatv/OFFtv2323/320534.ts
 http://162.212.153.165:80/live/Formigatv/OFFtv2323/1541820.ts
 #EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RECORD SP HD [ALT]" tvg-logo="https://images2.imgbox.com/29/5b/qgfRFc2q_o.png" group-title="✔️ REDE RECORD",RECORD SP HD [ALT]
 http://162.212.153.165:80/live/Formigatv/OFFtv2323/1541824.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP 4K" tvg-logo="http://logo.trendhd.xyz/images/ABERTOS/SBT.png" group-title="⭐ 4K | H265",SBT SP 4K
+http://162.212.153.165:80/live/Formigatv/OFFtv2323/1542453.ts
+#EXTINF:-1 tvg-id="Sbtrj.br" tvg-name="SBT RJ HD" tvg-logo="http://logo.trendhd.xyz/images/ABERTOS/SBT.png" group-title="✔️ REDE SBT",SBT RJ HD
+http://162.212.153.165:80/live/Formigatv/OFFtv2323/1541904.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP 4K" tvg-logo="http://logo.trendhd.xyz/images/4K/BAND 4K.png" group-title="⭐ 4K | H265",BAND SP 4K
+http://162.212.153.165:80/live/Formigatv/OFFtv2323/1542447.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND RJ FHD" tvg-logo="https://images2.imgbox.com/fd/05/i1jj358M_o.png" group-title="✔️ REDE BAND",BAND RJ FHD
+http://162.212.153.165:80/live/Formigatv/OFFtv2323/1541885.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA HD" tvg-logo="http://logo.trendhd.xyz/images/RELIGIOSOS/CANCAO_NOVA.png" group-title="✔️ RELIGIOSOS",CANCAO NOVA HD
+http://162.212.153.165:80/live/Formigatv/OFFtv2323/1542419.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT 4K" tvg-logo="http://logo.trendhd.xyz/images/VARIEDADES/GNT.png" group-title="⭐ 4K | H265",GNT 4K
+http://162.212.153.165:80/live/Formigatv/OFFtv2323/1542461.ts
+#EXTINF:-1 tvg-id="VIVABR" tvg-name="VIVA FHD°" tvg-logo="http://logo.trendhd.xyz/images/VARIEDADES/VIVA.png" group-title="✔️ VARIADOS",VIVA FHD°
+http://162.212.153.165:80/live/Formigatv/OFFtv2323/1542018.ts
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV 4K" tvg-logo="http://logo.trendhd.xyz/images/4K/SPORTV 4K.png" group-title="⭐ 4K | H265",SPORTV 4K
+http://162.212.153.165:80/live/Formigatv/OFFtv2323/1542455.ts
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD⁺" tvg-logo="https://i.imgur.com/VlFYLLm.jpg" group-title="⚽️ PREMIERE",PREMIERE CLUBES HD⁺
+http://162.212.153.165:80/live/Formigatv/OFFtv2323/948335.ts
