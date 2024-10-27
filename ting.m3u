@@ -1,21 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="https://bit.ly/Logo-tv" group-title="Rede Globo",Globo TV Rio Sul
-https://reidoscanais.tv/embed/?id=globorj-tvriosul
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="https://bit.ly/Logo-tv" group-title="Rede Globo",Globo SP
-https://reidoscanais.tv/embed/?id=globosp-globosaopaulo
-#EXTINF:-1 tvg-id="" tvg-name="SBT1" tvg-logo="https://bit.ly/Logo-tv" group-title="SBT",SBT
-https://reidoscanais.tv/embed/?id=sbt
-#EXTINF:-1 tvg-id="" tvg-name="record" tvg-logo="https://bit.ly/Logo-tv" group-title="RECORD",Record
-https://reidoscanais.tv/embed/?id=recordsp
-#EXTINF:-1 tvg-id="" tvg-name="band" tvg-logo="https://bit.ly/Logo-tv" group-title="BAND",BAND
-https://reidoscanais.tv/embed/?id=band
-#EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="https://bit.ly/Logo-tv" group-title="Rede Globo",Globo News
-https://reidoscanais.tv/embed/?id=globonews
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan" tvg-logo="https://bit.ly/Logo-tv" group-title="Jovem Pan",JP
-https://reidoscanais.tv/embed/?id=jpnews
-#EXTINF:-1 tvg-id="" tvg-name="SBT1" tvg-logo="https://bit.ly/Logo-tv" group-title="ESPN",ESPN
-https://reidoscanais.tv/embed/?id=espn
-#EXTINF:-1 tvg-id="" tvg-name="SBT1" tvg-logo="https://bit.ly/Logo-tv" group-title="ESPN",ESPN 4
-https://reidoscanais.tv/embed/?id=espn4
-#EXTINF:-1 tvg-id="" tvg-name="SBT1" tvg-logo="https://bit.ly/Logo-tv" group-title="SPORTV",SPORTV
-https://reidoscanais.tv/embed/?id=sportv
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL HD°" tvg-logo="https://i.imgur.com/Fhjdpph.png" group-title="✔️ REDE GLOBO",GLOBO TV RIO SUL HD°
+http://162.212.153.165:80/live/Formigatv/OFFtv2323/1541748.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP 4K" tvg-logo="http://logo.trendhd.xyz/images/4K/GLOBO 4K.png" group-title="⭐ 4K | H265",GLOBO SP 4K
+http://162.212.153.165:80/live/Formigatv/OFFtv2323/1542445.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD°" tvg-logo="https://i.imgur.com/Fhjdpph.png" group-title="✔️ REDE GLOBO",GLOBO RJ HD°
+http://162.212.153.165:80/live/Formigatv/OFFtv2323/320534.ts
+#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RECORD RS HD°" tvg-logo="https://images2.imgbox.com/29/5b/qgfRFc2q_o.png" group-title="✔️ REDE RECORD",RECORD RS HD°
+http://162.212.153.165:80/live/Formigatv/OFFtv2323/1541820.ts
+#EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RECORD SP HD [ALT]" tvg-logo="https://images2.imgbox.com/29/5b/qgfRFc2q_o.png" group-title="✔️ REDE RECORD",RECORD SP HD [ALT]
+http://162.212.153.165:80/live/Formigatv/OFFtv2323/1541824.ts
